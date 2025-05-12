@@ -5,7 +5,7 @@ I am a beginner Java developer actively mastering modern technologies for buildi
 - ☕ **Java** — OOP, collections, streams  
 - 🌱 **Spring Framework** — DI and IoC, AOP, Hibernate, MVC, Spring REST, Spring Security, Spring Boot
 - 🛢 **Databases**:
-  - PostgreSQL — schema design, queries, indexes, relationships  
+  - MySql — schema design, queries, indexes, relationships  
   - MongoDB — document-oriented storage, CRUD operations
 - 🐳 Docker — creating containers and running images.  
 - 🔧 **Tools** — Git, GitHub, IntelliJ IDEA, Insomnia, Docker, VS Code
