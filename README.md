@@ -15,7 +15,7 @@ I am a beginner Java developer actively mastering modern technologies for buildi
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,mongodb,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,github,vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="40" alt="IntelliJ IDEA" />
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" alt="Insomnia" />
 </p>
