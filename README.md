@@ -2,7 +2,7 @@
 
 I am a beginner Java developer actively mastering modern technologies for building backend systems. I have experience with:
 - 🤖 Python — creating Telegram bots
-- ☕ **Java** — OOP, collections, streams  
+- ☕ **Java** — OOP, collections, threads  
 - 🌱 **Spring Framework** — DI and IoC, AOP, Hibernate, MVC, Spring REST, Spring Security, Spring Boot
 - 🛢 **Databases**:
   - MySql — schema design, queries, indexes, relationships  
